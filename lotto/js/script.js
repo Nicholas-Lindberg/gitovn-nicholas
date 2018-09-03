@@ -7,5 +7,6 @@ function lottoRad() {
 	 	document.getElementById ("lotto_" + i).innerHTML = lottery;
 
 	}
-	//alert
+	//alert 
+	alert(allert)
 }
